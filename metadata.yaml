@@ -1,0 +1,35 @@
+_repo: The-Arabian-Nights-Volume-II-of-IV_63306
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Galland, Antoine
+    birthdate: 1646
+    deathdate: 1715
+    gutenberg_agent_id: '31901'
+    url: http://www.gutenberg.org/2009/agents/31901
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Antoine_Galland
+    - https://fr.wikipedia.org/wiki/Antoine_Galland
+  - agent_name: Forster, Edward
+    birthdate: 1769
+    deathdate: 1828
+    gutenberg_agent_id: '52166'
+    url: http://www.gutenberg.org/2009/agents/52166
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Forster_(writer)
+description: Translation of the French version by Antoine Galland.
+gutenberg_issued: '2020-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Arab countries'
+- !lcc 'PJ'
+- !lcsh 'Fairy tales -- Arab countries'
+- !lcsh 'Arabs -- Folklore'
+- GITenberg
+title: The Arabian Nights, Volume II of IV
+url: http://www.gutenberg.org/ebooks/63306
