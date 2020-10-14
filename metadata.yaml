@@ -16,7 +16,12 @@ contributor:
     gutenberg_agent_id: '52166'
     url: http://www.gutenberg.org/2009/agents/52166
     wikipedia: https://en.wikipedia.org/wiki/Edward_Forster_(writer)
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: Translation of the French version by Antoine Galland.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63306#The-Arabian-Nights-Volume-II-of-IV
 gutenberg_issued: '2020-09-26'
 gutenberg_type: Text
 identifiers:
